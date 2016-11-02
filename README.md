@@ -15,7 +15,7 @@ Site Based Current Observations - Observed weather data, including associated we
 ---
 # Reference
 [The Weather Company](http://www.theweathercompany.com/)  
-[TWCo Forecast Daily](http://goo.gl/AoxGl3)
+[TWCo Currents Airport](http://goo.gl/r3991M)
 
 ---
 #Requirements
